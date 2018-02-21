@@ -26,11 +26,11 @@
   "homepage": "https://github.com/bkonkle/jsx-chai#readme",
   "peerDependencies": {
     "chai": "^3.4.0",
-    "react": "^0.14.0 || ^15.0.0-0"
+    "react": "^0.14.0 || ^15.6.2"
   },
   "dependencies": {
     "collapse-white-space": "^1.0.0",
-    "react-element-to-jsx-string": "^2.5.0"
+    "react-element-to-jsx-string": "^13.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.1.2",
